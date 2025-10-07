@@ -1,0 +1,7 @@
+MarketTest:testAddsFunderToArrayOfFunders() (gas: 97903)
+MarketTest:testFundFailsWithoutEnoughETH() (gas: 22978)
+MarketTest:testFundUpdatesFundedDataStructure() (gas: 97552)
+MarketTest:testOnlyOwnerCanWithdraw() (gas: 97600)
+MarketTest:testPriceFeedSetCorrectly() (gas: 15201)
+MarketTest:testWithDrawFromMultipleFunders() (gas: 533296)
+MarketTest:testWithdrawFromASingleFunder() (gas: 83100)

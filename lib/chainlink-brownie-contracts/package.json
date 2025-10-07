@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@chainlink": "^1.1.1"
+  }
+}
